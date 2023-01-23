@@ -1,0 +1,8 @@
+//
+// Created by EviiiiiL on 23.01.2023.
+//
+
+#ifndef ALGORITMES_INSERTION_SORT_H
+#define ALGORITMES_INSERTION_SORT_H
+
+#endif //ALGORITMES_INSERTION_SORT_H
