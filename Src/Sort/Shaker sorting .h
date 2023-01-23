@@ -1,0 +1,8 @@
+//
+// Created by EviiiiiL on 23.01.2023.
+//
+
+#ifndef ALGORITMES_SHAKER_SORTING_H
+#define ALGORITMES_SHAKER_SORTING_H
+
+#endif //ALGORITMES_SHAKER_SORTING_H

@@ -1,0 +1,8 @@
+//
+// Created by EviiiiiL on 23.01.2023.
+//
+
+#ifndef ALGORITMES_INTERPOLATING_H
+#define ALGORITMES_INTERPOLATING_H
+
+#endif //ALGORITMES_INTERPOLATING_H
